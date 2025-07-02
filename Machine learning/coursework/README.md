@@ -20,3 +20,5 @@
   - 6)`Classification_CC50.ipynb` — классификация CC50 (> медианы)
   - 7)`Classification_SI.ipynb` — классификация SI (> медианы)
   - 8)`Classification_SI8.ipynb` — классификация SI (> 8)
+
+  - `SerovIA_report_course_work.pdf` - отчет
